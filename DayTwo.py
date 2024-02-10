@@ -15,5 +15,5 @@ number_of_people = int(input("How many people split the bill? "))
 
 indiviual_cost = ( bill_amount / number_of_people ) * (1 + (tip_percentage / 100))
 
-print("Each person will pay: ${:.2f}".format( indiviual_cost ))
+print("Each person will pay: {:.2f}".format( indiviual_cost ))
 
