@@ -4,7 +4,7 @@ list_of_cities = eval(input()) # create list from formatted string
 
 travel_log = [
   {
-    "country": "France",
+    "country": "testing",
     "visits": 12,
     "cities": ["Paris", "Lille", "Dijon"]
   },
